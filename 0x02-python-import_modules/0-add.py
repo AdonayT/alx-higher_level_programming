@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Adonay Teshome
+
 if __name__ == "__main__":
     """program prints the sum of 1 and 2."""
     from add_0 import add
